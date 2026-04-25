@@ -32,8 +32,9 @@ Launch the notebooks directly in your browser — no setup needed:
 
 ## Quick start
 
-1. Open a terminal — `Ctrl + T`
-2. Type `bash Start`, press `Tab` to complete, then `Enter`
+1. Clone the repo: `git clone https://github.com/sysox/PoznejFI.git`
+2. Open a terminal — `Ctrl + T`
+3. Type `./St`, press `Tab` to complete, then `Enter`
 
 Jupyter Notebook opens in your browser automatically.
 
