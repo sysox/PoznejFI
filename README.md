@@ -18,10 +18,10 @@ See [ABSTRAKT.md](ABSTRAKT.md) for the Czech workshop description.
 
 Launch the notebooks directly in your browser — no setup needed:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sysox/PoznejFI/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sysox/authentization/HEAD)
 
-> **Note:** Binder works for `PoznejFI.ipynb` (passwords, OTP, certificates).  
-> It is **not suitable** for `biometrics.ipynb`, which requires uploading your own finger photos and local hardware access.
+> **Note:** Binder works for `Authentization.ipynb` (passwords, OTP, certificates).  
+> It is **not suitable** for `Biometrics.ipynb`, which requires uploading your own finger photos and local hardware access.
 
 ---
 
@@ -34,7 +34,7 @@ Launch the notebooks directly in your browser — no setup needed:
 
 ## Quick start
 
-1. Clone the repo: `git clone https://github.com/sysox/PoznejFI.git`
+1. Clone the repo: `git clone https://github.com/sysox/authentization.git`
 2. Open a terminal — `Ctrl + T`
 3. Type `./St`, press `Tab` to complete, then `Enter`
 
@@ -44,10 +44,9 @@ Jupyter Notebook opens in your browser automatically.
 
 ## Usage
 
-1. Select kernel **Python (poznejfi)**.
-2. Open a notebook and run cells top to bottom.
+1. Open a notebook and run cells top to bottom.
 
-For `biometrics.ipynb`: put your finger photo(s) in the `data/` folder before starting.
+For `Biometrics.ipynb`: put your finger photo(s) in the `data/` folder before starting.
 
 The notebook reproduces the attack described in:
 - BBC News — [Hacker 'fakes' German minister's fingerprints using photos](https://www.bbc.com/news/technology-30623611)
